@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Projeto Desafio: RocketCoffee da Rocketseat ☕
+ Projeto Desafio: Tela inical
 </h1>
 
 <br>
