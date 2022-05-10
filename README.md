@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/NandoDev89">
-        <img src="https://avatars.githubusercontent.com/u/72362299?s=96&v=4" width="100px;" /><br>
+        <img src="https://avatars.githubusercontent.com/u/68629837?v=4" width="100px;" /><br>
         <sub>
           <b>Fernando Azevedo</b>
         </sub>
