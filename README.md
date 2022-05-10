@@ -9,7 +9,9 @@
 
 ## 📝 Descrição 
 
-Desafio do curso  [ Discover](https://app.rocketseat.com.br/discover) da Rocketseat.  [ RocketCoffee](https://rocket-coffee-delta.vercel.app/)
+Inspirado no desafio do curso  [ Discover](https://app.rocketseat.com.br/discover) da Rocketseat.  [ RocketCoffee](https://rocket-coffee-delta.vercel.app/).
+
+
 
 ## 🚀 Tecnologias
 
